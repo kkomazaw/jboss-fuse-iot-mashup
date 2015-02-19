@@ -2,6 +2,7 @@
   "name":"Messaging on Cloud",
   "summary":"In this demo, we will create a broker that takes in MQTT, STOMP, and AMQP protocol on Openshift. And we are also going to use camel to route the data using the protocol above and put it into a message collector.",
   "author":"Christina Lin",
+  "category":"fuse",
   "level":"Beginner",
   "published":true,
   "prerequisites":"Java VM 1.6 or 1.7, Maven",
